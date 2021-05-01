@@ -1,5 +1,5 @@
 # Hangman Game
-In Hangman game you need to guess the word of particular type.
+In Hangman game you need to guess the word of a particular category.
 In my program there are three categories Animal, Languages, Color.
 
 # To Run
