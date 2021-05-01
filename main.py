@@ -163,7 +163,7 @@ def hangman():
         # Here user is asked to enter for alphabetical guess, which will be forced  to lowercase
         guess = "0"
         if not guess.isalpha():
-            guess = input("Guess a letter or the word: ").lower()
+            guess = input("Guess a letter: ").lower()
 
         if guess == word.lower():
             # Completely guessed the right word (Its time for reward)
